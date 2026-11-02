@@ -1,0 +1,18 @@
+{
+  "version": "0.7.24",
+  "builtAt": "2026-11-02T03:28:45.727Z",
+  "parts": [
+    {
+      "name": "Vedit-mac.zip.00",
+      "size": 94371840,
+      "sha256": "2d0da533f84cec87261c8d1a213ddcd507e923ee390e5845c58823d421f29ad7"
+    },
+    {
+      "name": "Vedit-mac.zip.01",
+      "size": 50563328,
+      "sha256": "6b5f9e66a11947fefecbbf6eddbafb8029c3efa00bad78ac0c68c8798c4a384f"
+    }
+  ],
+  "sha256": "00baea880f0100fd189246fe94a69441fd3ec427674b150b7f243a3dc7141b44",
+  "size": 144935168
+}
